@@ -14,7 +14,11 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
+<<<<<<< HEAD
   "/portfolio/reactjs/giggle/precache-manifest.30ac3fce14adf7ae66642a4b99d77a82.js"
+=======
+  "/precache-manifest.ac6ba17ecf27f6f4fa26ecaa88525bd1.js"
+>>>>>>> 9fc9be65748b5c422e5d28e188bb58873eb2c64b
 );
 
 workbox.clientsClaim();
@@ -28,7 +32,11 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
+<<<<<<< HEAD
 workbox.routing.registerNavigationRoute("/portfolio/reactjs/giggle/index.html", {
+=======
+workbox.routing.registerNavigationRoute("/index.html", {
+>>>>>>> 9fc9be65748b5c422e5d28e188bb58873eb2c64b
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

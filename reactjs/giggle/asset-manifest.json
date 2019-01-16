@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "main.css": "/portfolio/reactjs/giggle/static/css/main.7a3f7b0c.chunk.css",
   "main.js": "/portfolio/reactjs/giggle/static/js/main.5404a2b4.chunk.js",
   "main.js.map": "/portfolio/reactjs/giggle/static/js/main.5404a2b4.chunk.js.map",
@@ -10,4 +11,17 @@
   "index.html": "/portfolio/reactjs/giggle/index.html",
   "precache-manifest.30ac3fce14adf7ae66642a4b99d77a82.js": "/portfolio/reactjs/giggle/precache-manifest.30ac3fce14adf7ae66642a4b99d77a82.js",
   "service-worker.js": "/portfolio/reactjs/giggle/service-worker.js"
+=======
+  "main.css": "/static/css/main.7a3f7b0c.chunk.css",
+  "main.js": "/static/js/main.5404a2b4.chunk.js",
+  "main.js.map": "/static/js/main.5404a2b4.chunk.js.map",
+  "static/js/1.8562945b.chunk.js": "/static/js/1.8562945b.chunk.js",
+  "static/js/1.8562945b.chunk.js.map": "/static/js/1.8562945b.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/main.7a3f7b0c.chunk.css.map": "/static/css/main.7a3f7b0c.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.ac6ba17ecf27f6f4fa26ecaa88525bd1.js": "/precache-manifest.ac6ba17ecf27f6f4fa26ecaa88525bd1.js",
+  "service-worker.js": "/service-worker.js"
+>>>>>>> 9fc9be65748b5c422e5d28e188bb58873eb2c64b
 }
