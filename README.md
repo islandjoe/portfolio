@@ -1,2 +1,2 @@
 # portfolio
-A portfolio of my projects
+A portfolio of my side projects.
