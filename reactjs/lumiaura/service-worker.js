@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/portfolio/reactjs/lumiaura/precache-manifest.38f8bef3727401afdc659d9a418060aa.js"
+  "/portfolio/reactjs/lumiaura/precache-manifest.bb7e37aab74ba45df793e4cb9d7be557.js"
 );
 
 workbox.clientsClaim();

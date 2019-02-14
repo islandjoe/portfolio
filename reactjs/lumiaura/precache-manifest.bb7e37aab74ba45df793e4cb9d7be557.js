@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "76ef462d95326b52081b",
+    "revision": "8d683fed89140db43cbc",
     "url": "/portfolio/reactjs/lumiaura/static/css/main.78f11850.chunk.css"
   },
   {
-    "revision": "76ef462d95326b52081b",
-    "url": "/portfolio/reactjs/lumiaura/static/js/main.76ef462d.chunk.js"
+    "revision": "8d683fed89140db43cbc",
+    "url": "/portfolio/reactjs/lumiaura/static/js/main.8d683fed.chunk.js"
   },
   {
     "revision": "d51f18fd5d54001bd925",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/portfolio/reactjs/lumiaura/static/js/runtime~main.4d4cb938.js"
   },
   {
-    "revision": "6112ed25d593eaa0c01f644973d9fb75",
+    "revision": "e86d585ea3e82d3471c44b5cf2ae275e",
     "url": "/portfolio/reactjs/lumiaura/index.html"
   }
 ];
