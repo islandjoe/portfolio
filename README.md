@@ -9,3 +9,7 @@ https://github.com/islandjoe/giggle--single-page-app
 ## Lumiaura: Where' the snowplows at?
 
 https://github.com/islandjoe/lumiaura
+
+## Contact List Manager
+
+https://github.com/islandjoe/contacts
