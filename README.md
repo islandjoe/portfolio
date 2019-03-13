@@ -27,3 +27,8 @@ A mid-fidelity prototype project for a "[Prototyping of Digital Services](http:/
 ## [React Movies](https://compendium.xyz/portfolio/movies/)
 
 A single-page React application (SPA) that uses __themoviedb.org__'s API to fetch the latest movies and their infos. This app features Local Storage for caching (in the event that the user is offline).
+
+## [7-Minute Workout](https://compendium.xyz/portfolio/7-minute-workout/)
+
+This 7-minute workout web app does not need speakers in order to follow. One only needs to be able to read the instructions on the screen. Done in Affinity Designer, Hype 3, and Javascript.
+
