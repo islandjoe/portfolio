@@ -14,6 +14,8 @@ Inspired by the heavy snow condition of Feb 2019 in Helsinki. This React app sho
 
 https://github.com/islandjoe/lumiaura
 
+KEYWORDS: OpenStreetMap API, Helsinki City Snowplow API (dev.hel.fi), Digitransit Geocoding API, LeafletJS, ReactJS, Javascript ES6
+
 ## [Contact](https://compendium.xyz/portfolio/contacts) List Manager
 
 A ReactJS app that stores contact list consisting of name, email, and phone number. For this implementation, it uses JSON placeholder API service from https://jsonplaceholder.typicode.com/ for the purpose of populating the app with entries.
@@ -24,11 +26,15 @@ https://github.com/islandjoe/contacts
 
 A mid-fidelity prototype project for a "[Prototyping of Digital Services](http://www.haaga-helia.fi/en/opinto-opas/opintojaksokuvaukset/DIG4TF003)" course I took in HAAGA-HELIA University of Applied Sciences. 'AR Luonto' is meant to be an iOS-based augmented reality (AR) educational app for children where they learn about the kinds of animals that live in Finland's forests or nature.
 
+KEYWORDS: Balsamiq Mockups 3, Hype 3, Javascript
+
 ## [React Movies](https://compendium.xyz/portfolio/movies/)
 
 A single-page React application (SPA) that uses __themoviedb.org__'s API to fetch the latest movies and their infos. This app features Local Storage for caching (in the event that the user is offline).
 
 ## [7-Minute Workout](https://compendium.xyz/portfolio/7-minute-workout/)
 
-This 7-minute workout web app does not need speakers in order to follow. One only needs to be able to read the instructions on the screen. Done in Affinity Designer, Hype 3, and Javascript.
+This 7-minute workout web app does not need speakers in order to follow. One only needs to be able to read the instructions on the screen. 
+
+KEYWORDS: Affinity Designer, Hype 3, Javascript
 
