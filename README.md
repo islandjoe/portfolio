@@ -4,13 +4,13 @@ A portfolio of my side projects.
 
 ## [Giggle](https://compendium.xyz/portfolio/giggle): Because dad jokes are not really that funny
 
-A ReactJS single page app (SPA) for searching for corny dad jokes. Type in keywords and it returns jokes based on that keyword.
+A single-page ReactJS app (SPA) for searching for corny dad jokes. Type in keywords and it returns jokes based on that keyword.
 
 https://github.com/islandjoe/giggle--single-page-app
 
 ## [Lumiaura](https://compendium.xyz/portfolio/lumiaura): Where' the snowplows at?
 
-Inspired by the heavy snow condition in Helsinki on Feb 2019. This React app shows where the city's snowplows are currently plowing and what kind of "plowing" they're doing (e.g., plowing the streets, bike lanes, pedestrian paths, etc.).
+Inspired by the heavy snow condition of Feb 2019 in Helsinki. This React app shows where the city's snowplows are currently plowing and what kind of "plowing" they're doing (e.g., plowing the streets, bike lanes, pedestrian paths, etc.).
 
 https://github.com/islandjoe/lumiaura
 
@@ -20,8 +20,10 @@ A ReactJS app that stores contact list consisting of name, email, and phone numb
 
 https://github.com/islandjoe/contacts
 
-## AR Luonto: A mobile phone educational app for children
+## [AR Luonto](https://compendium.xyz/portfolio/ar-prototype/): A mobile phone educational app for children
 
 A mid-fidelity prototype project for a "[Prototyping of Digital Services](http://www.haaga-helia.fi/en/opinto-opas/opintojaksokuvaukset/DIG4TF003)" course I took in HAAGA-HELIA University of Applied Sciences. 'AR Luonto' is meant to be an iOS-based augmented reality (AR) educational app for children where they learn about the kinds of animals that live in Finland's forests or nature.
 
-https://compendium.xyz/portfolio/ar-prototype/
+## [React Movies](https://compendium.xyz/portfolio/movies/)
+
+A single-page React application (SPA) that uses __themoviedb.org__'s API to fetch the latest movies and their infos. This app features Local Storage for caching (in the event that the user is offline).
