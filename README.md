@@ -1,19 +1,7 @@
 
-# My Portfolio
+# My side projects portfolio
 A portfolio of my side projects.
 
+## Giggle: Search for corny dad jokes
 
-### HOW TO
-
-```
-portfolio
-├── graphql
-├── ios
-│   ├── /chit-chat
-│   └── /clima
-└── reactjs
-    └── /giggle
-```
-
-The _portfolio_ is the repository, so projects must always be placed on the edges (i.e., leaves).
-
+https://github.com/islandjoe/giggle--single-page-app
