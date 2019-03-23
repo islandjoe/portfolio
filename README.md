@@ -38,3 +38,10 @@ This 7-minute workout web app does not need speakers in order to follow. One onl
 
 KEYWORDS: Affinity Designer, Hype 3, Javascript, high fidelity prototyping, user experience design
 
+
+## [IoT sensor network](https://github.com/islandjoe/IoT-sensor-network) proof-of-concept
+
+An implementation of an array of IoT sensors that sends collected data to a private cloud storage.
+
+KEYWORDS: Python, OpenCV, Raspberry Pi, Linux, electronics, sensors, Internet of Things, HTTPS, data collection
+
