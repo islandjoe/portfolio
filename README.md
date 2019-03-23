@@ -26,7 +26,7 @@ https://github.com/islandjoe/contacts
 
 A mid-fidelity prototype project for a "[Prototyping of Digital Services](http://www.haaga-helia.fi/en/opinto-opas/opintojaksokuvaukset/DIG4TF003)" course I took in HAAGA-HELIA University of Applied Sciences. 'AR Luonto' is meant to be an iOS-based augmented reality (AR) educational app for children where they learn about the kinds of animals that live in Finland's forests or nature.
 
-KEYWORDS: Balsamiq Mockups 3, Hype 3, Javascript, digital prototyping, product design
+KEYWORDS: Balsamiq Mockups 3, Hype 3, Javascript, digital prototyping, product design, user experience design
 
 ## [React Movies](https://compendium.xyz/portfolio/movies/)
 
@@ -36,5 +36,5 @@ A single-page React application (SPA) that uses __themoviedb.org__'s API to fetc
 
 This 7-minute workout web app does not need speakers in order to follow. One only needs to be able to read the instructions on the screen. 
 
-KEYWORDS: Affinity Designer, Hype 3, Javascript
+KEYWORDS: Affinity Designer, Hype 3, Javascript, high fidelity prototyping, user experience design
 
