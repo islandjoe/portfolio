@@ -24,9 +24,9 @@ https://github.com/islandjoe/contacts
 
 ## [AR Luonto](https://compendium.xyz/portfolio/ar-prototype/): A mobile phone educational app for children
 
-A mid-fidelity prototype project for a "[Prototyping of Digital Services](http://www.haaga-helia.fi/en/opinto-opas/opintojaksokuvaukset/DIG4TF003)" course I took in HAAGA-HELIA University of Applied Sciences. 'AR Luonto' is meant to be an iOS-based augmented reality (AR) educational app for children where they learn about the kinds of animals that live in Finland's forests or nature.
+A mid-fidelity prototype project for a "[Prototyping of Digital Services](http://www.haaga-helia.fi/en/opinto-opas/opintojaksokuvaukset/DIG4TF003)" course I took in HAAGA-HELIA University of Applied Sciences. 'AR Luonto' is meant to be an iOS-based augmented reality (AR) educational app for children where they learn about the kinds of animals that live in Finland's forests or nature. [The iOS version of the prototype](https://youtu.be/QvIqrxR0PvY).
 
-KEYWORDS: Balsamiq Mockups 3, Hype 3, Javascript, digital prototyping, product design, user experience design
+KEYWORDS: Balsamiq Mockups 3, Hype 3, Javascript, digital prototyping, product design, user experience design, iOS, ARKit
 
 ## [React Movies](https://compendium.xyz/portfolio/movies/)
 
