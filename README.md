@@ -2,6 +2,10 @@
 # My side projects portfolio
 A portfolio of my side projects.
 
+## [Fira ES Retina](https://github.com/islandjoe/firaes-retina)
+
+A monospaced font with programming ligatures for ES6 and ReactJS on VS Code. 
+
 ## [Giggle](https://compendium.xyz/portfolio/giggle): Because dad jokes are not really that funny
 
 A single-page ReactJS app (SPA) for searching for corny dad jokes. Type in keywords and it returns jokes based on that keyword.
