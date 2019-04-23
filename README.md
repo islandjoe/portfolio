@@ -53,4 +53,10 @@ KEYWORDS: Python, OpenCV, Raspberry Pi, Linux, electronics, sensors, Internet of
 
 This is a Brackets extension that loads a text template of your choosing into a currently open file.
 
-KEYWORDS: Brackets Editor, Frontend Dev
+KEYWORDS: Brackets Editor, Frontend Dev, extensions
+
+## [touch](/islandjoe/touch-markdown-readme): DropZone 3 plugin
+
+This Dropzone 3 action creates an empty `README.md` file inside a folder by simply dragging the folder into the action pane of DropZone. This is a drag-and-drop version of the commandline: `$ touch README.md`
+
+KEYWORDS: Ruby, scripting, Frontend Dev
