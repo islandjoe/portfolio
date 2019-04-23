@@ -18,13 +18,13 @@ Inspired by the heavy snow condition of Feb 2019 in Helsinki. This React app sho
 
 https://github.com/islandjoe/lumiaura
 
-KEYWORDS: OpenStreetMap API, Helsinki City Snowplow API (dev.hel.fi), Digitransit Geocoding API, LeafletJS, ReactJS, Javascript ES6
+KEYWORDS: OpenStreetMap API, Helsinki City Snowplow API (dev.hel.fi), Digitransit Geocoding API, LeafletJS, ReactJS, Javascript ES6, Frontend Dev
 
-## [Contact](https://compendium.xyz/portfolio/contacts) List Manager
+## [_t](/islandjoe/_t): timberscores
 
-A ReactJS app that stores contact list consisting of name, email, and phone number. For this implementation, it uses JSON placeholder API service from https://jsonplaceholder.typicode.com/ for the purpose of populating the app with entries.
+A WordPress plugin for writing themes using [Object-oriented code](https://github.com/timber/timber) and [Twig](https://twig.symfony.com) Template Engine. 
 
-https://github.com/islandjoe/contacts
+KEYWORDS: PHP, WP Plugin, Twig, WP starter theme, Frontend Dev
 
 ## [AR Luonto](https://compendium.xyz/portfolio/ar-prototype/): A mobile phone educational app for children
 
