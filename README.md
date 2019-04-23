@@ -49,3 +49,8 @@ An implementation of an array of IoT sensors that sends collected data to a priv
 
 KEYWORDS: Python, OpenCV, Raspberry Pi, Linux, electronics, sensors, Internet of Things, HTTPS, data collection
 
+## [Load Template](/islandjoe/load-template): Brackets extension
+
+This is a Brackets extension that loads a text template of your choosing into a currently open file.
+
+KEYWORDS: Brackets Editor, Frontend Dev
