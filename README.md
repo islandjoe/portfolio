@@ -6,12 +6,6 @@ A portfolio of my side projects.
 
 A monospaced font with programming ligatures for ES6 and ReactJS on VS Code. 
 
-## [Giggle](https://compendium.xyz/portfolio/giggle): Because dad jokes are not really that funny
-
-A single-page ReactJS app (SPA) for searching for corny dad jokes. Type in keywords and it returns jokes based on that keyword.
-
-https://github.com/islandjoe/giggle--single-page-app
-
 ## [Lumiaura](https://compendium.xyz/portfolio/lumiaura): Where' the snowplows at?
 
 Inspired by the heavy snow condition of Feb 2019 in Helsinki. This React app shows where the city's snowplows are currently plowing and what kind of "plowing" they're doing (e.g., plowing the streets, bike lanes, pedestrian paths, etc.).
@@ -20,7 +14,7 @@ https://github.com/islandjoe/lumiaura
 
 KEYWORDS: OpenStreetMap API, Helsinki City Snowplow API (dev.hel.fi), Digitransit Geocoding API, LeafletJS, ReactJS, Javascript ES6, Frontend Dev
 
-## [_t](/islandjoe/_t): timberscores
+## [_t](https://github.com/islandjoe/_t): timberscores
 
 A WordPress plugin for writing themes using [Object-oriented code](https://github.com/timber/timber) and [Twig](https://twig.symfony.com) Template Engine. 
 
