@@ -2,6 +2,12 @@
 # My side projects portfolio
 A portfolio of my side projects.
 
+## [Subscriber Account Page](https://github.com/islandjoe/subscriptions-web-app)
+
+A basic but fully functional subscriber's page in React. A subscriber logs in with their username and password, then they get access to their account page. 
+
+(ReactJS, Balsamiq, Javascript, Semantic UI, Mobile First, Media Query)
+
 ## [Fira ES Retina](https://github.com/islandjoe/firaes-retina)
 
 A monospaced font with programming ligatures for ES6 and ReactJS on VS Code. 
