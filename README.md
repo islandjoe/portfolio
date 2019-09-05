@@ -12,11 +12,11 @@ A basic but fully functional subscriber's page in React. A subscriber logs in wi
 
 A monospaced font with programming ligatures for ES6 and ReactJS on VS Code. 
 
-## [Lumiaura](https://compendium.xyz/portfolio/lumiaura): Where' the snowplows at?
+## [Lumiaura](https://github.com/islandjoe/lumiaura): Where' the snowplows at?
 
 Inspired by the heavy snow condition of Feb 2019 in Helsinki. This React app shows where the city's snowplows are currently plowing and what kind of "plowing" they're doing (e.g., plowing the streets, bike lanes, pedestrian paths, etc.).
 
-https://github.com/islandjoe/lumiaura
+https://compendium.xyz/portfolio/lumiaura
 
 KEYWORDS: OpenStreetMap API, Helsinki City Snowplow API (dev.hel.fi), Digitransit Geocoding API, LeafletJS, ReactJS, Javascript ES6, Frontend Dev
 
