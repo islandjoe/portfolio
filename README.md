@@ -32,7 +32,7 @@ A mid-fidelity prototype project for a "[Prototyping of Digital Services](http:/
 
 KEYWORDS: Balsamiq Mockups 3, Hype 3, Javascript, digital prototyping, product design, user experience design, iOS, ARKit
 
-## [React Movies](https://compendium.xyz/portfolio/movies/)
+## [React Movies](http://compendium.xyz.react-movies.s3-website-us-east-1.amazonaws.com)
 
 A single-page React application (SPA) that uses __themoviedb.org__'s API to fetch the latest movies and their infos. This app features Local Storage for caching (in the event that the user is offline).
 
