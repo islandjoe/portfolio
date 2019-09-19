@@ -34,7 +34,7 @@ KEYWORDS: Balsamiq Mockups 3, Hype 3, Javascript, digital prototyping, product d
 
 ## [React Movies](http://compendium.xyz.react-movies.s3-website-us-east-1.amazonaws.com)
 
-A single-page React application (SPA) that uses __themoviedb.org__'s API to fetch the latest movies and their infos. This app features Local Storage for caching (in the event that the user is offline).
+A single-page React application (SPA) that uses __themoviedb.org__'s API to fetch the latest movies and their infos. This app features Local Storage for caching (in the event that the user is offline) and is hosted in an AWS S3 bucket.
 
 ## [7-Minute Workout](https://compendium.xyz/portfolio/7-minute-workout/)
 
