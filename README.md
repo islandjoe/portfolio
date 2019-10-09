@@ -2,6 +2,14 @@
 # My side projects portfolio
 A portfolio of my side projects.
 
+## [Dopmn](https://github.com/islandjoe/dopmn)
+
+A quick dev environment solution for prototyping MVC web apps using Docker, PHP, MySQL, and nginx.
+
+## [PHP, MySQL, JSON web app](https://github.com/islandjoe/php-mysql-json-webapp)
+
+A very simple app that queries the database and returns the result in prettyfied JSON.
+
 ## [Subscriber Account Page](https://github.com/islandjoe/subscriptions-web-app)
 
 A basic but fully functional subscriber's page in React. A subscriber logs in with their username and password, then they get access to their account page. 
