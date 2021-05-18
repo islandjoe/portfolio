@@ -6,7 +6,7 @@ A portfolio of my side projects.
 
 A basic but fully functional phone subscriber's page in React. A subscriber logs in with their username and password, then they get access to their account page. 
 
-(Backend dev, Frontend dev, ReactJS, UX, wireframing, prototyping, Balsamiq, Javascript, Semantic UI, Mobile First, Media Query)
+(Backend dev, Frontend dev, Javascript, ReactJS, AWS, UX, wireframing, prototyping)
 
 
 ## [Django web app](https://github.com/islandjoe/django-pages-app)
@@ -25,7 +25,7 @@ A ReactJS contact list app that allows to enter a new contact, edit the contact 
 
 A quick dev environment solution for prototyping MVC web apps using Docker, PHP, MySQL, and nginx.
 
-(Backend dev, Dev tool) 
+(Backend dev, Dev tool, Docker, Microservices) 
 
 ## [PHP, MySQL, JSON web app](https://github.com/islandjoe/php-mysql-json-webapp)
 
