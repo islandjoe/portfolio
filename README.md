@@ -2,11 +2,24 @@
 # My side projects portfolio
 A portfolio of my side projects.
 
+## [Subscriber Account app](https://github.com/islandjoe/subscriptions-web-app)
+
+A basic but fully functional phone subscriber's page in React. A subscriber logs in with their username and password, then they get access to their account page. 
+
+(Backend dev, Frontend dev, ReactJS, UX, wireframing, prototyping, Balsamiq, Javascript, Semantic UI, Mobile First, Media Query)
+
+
 ## [Django web app](https://github.com/islandjoe/django-pages-app)
 
-A barebones but feature-complete web app (e.g. login authentication, admin panel, SSL, backend testing, etc.) It has Github integration and is deployed in Heroku.
+A barebones but feature-complete web app (e.g. login authentication, admin panel, SSL, backend testing, etc.) Github integration and is deployed in Heroku.
 
 (Backend dev, Python, Test suite)
+
+## [Contacts](https://github.com/islandjoe/contacts)
+
+A ReactJS contact list app that allows to enter a new contact, edit the contact details, or view the list of contacts.
+
+(Frontend dev, ReactJS)
 
 ## [Dopmn](https://github.com/islandjoe/dopmn)
 
@@ -20,11 +33,11 @@ A simple app that queries the database and returns the result in prettyfied JSON
 
 (Backend dev, SQL, Javascript)
 
-## [Subscriber Account app](https://github.com/islandjoe/subscriptions-web-app)
+## [IoT sensor network](https://github.com/islandjoe/IoT-sensor-network) proof-of-concept
 
-A basic but fully functional phone subscriber's page in React. A subscriber logs in with their username and password, then they get access to their account page. 
+An implementation of an array of IoT sensors that sends collected data to a private cloud storage.
 
-(Backend dev, Frontend dev, UX, wireframing, prototyping, ReactJS, Balsamiq, Javascript, Semantic UI, Mobile First, Media Query)
+(Data collection, IoT, Python, Sensors, Raspberry Pi, Linux, OpenCV (Computer Vision), electronics, HTTPS)
 
 ## [Fira ES Retina](https://github.com/islandjoe/firaes-retina)
 
@@ -38,12 +51,12 @@ Inspired by the heavy snow condition of Feb 2019 in Helsinki. This React app sho
 
 https://mm.compendium.xyz/portfolio/lumiaura
 
-(Frontend Dev, OpenStreetMap API, Helsinki City Snowplow API (dev.hel.fi), Digitransit Geocoding API, LeafletJS, ReactJS, Javascript ES6)
+(Frontend Dev, ReactJS, Javascript/ES6, OpenStreetMap API, Helsinki City Snowplow API (dev.hel.fi), Digitransit Geocoding API, LeafletJS)
 
 
 ## [Scoreboard app](https://github.com/islandjoe/player-scoreboard)
 
-A simple app that tracks players' ranking. Implemented in bare HTML, CSS, and Javascript.
+A simple app that tracks players' ranking. Implemented in bare Javascript.
 
 (Frontend dev, Backend dev, Javascript ES6)
 
@@ -53,11 +66,6 @@ A dashboard app that displays key performance indicators (KPI).
 
 (Frontend dev, UX design--not UI design)
 
-## [Contacts](https://github.com/islandjoe/contacts)
-
-A ReactJS contact list app that allows to enter a new contact, edit the contact details, or view the list of contacts.
-
-(Frontend dev, ReactJS)
 
 (https://github.com/islandjoe/subscriptions-web-app)
 
@@ -65,7 +73,7 @@ A ReactJS contact list app that allows to enter a new contact, edit the contact 
 
 A WordPress plugin for writing themes using [Object-oriented code](https://github.com/timber/timber) and [Twig](https://twig.symfony.com) Template Engine. 
 
-(Frontend Dev, PHP, WP Plugin, Twig, WP starter theme)
+(Frontend Dev, Javascript, PHP, WP Plugin, Twig, WP starter theme)
 
 ## [AR Luonto](https://mm.compendium.xyz/portfolio/ar-prototype/): A mobile phone educational app for children
 
@@ -78,12 +86,6 @@ A mid-fidelity prototype project for a "[Prototyping of Digital Services](http:/
 This 7-minute workout web app does not need speakers in order to follow. One only needs to be able to read the instructions on the screen. 
 
 (High-fi prototyping, UX design--not UI design, Affinity Designer, Hype 3, Javascript)
-
-## [IoT sensor network](https://github.com/islandjoe/IoT-sensor-network) proof-of-concept
-
-An implementation of an array of IoT sensors that sends collected data to a private cloud storage.
-
-(Data collection, IoT, Python, Sensors, Raspberry Pi, Linux, OpenCV (Computer Vision), electronics, HTTPS)
 
 ## [Load Template](https://github.com/islandjoe/load-template): Brackets extension
 
