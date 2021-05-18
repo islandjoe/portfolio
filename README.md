@@ -24,7 +24,7 @@ A monospaced font with programming ligatures for ES6 and ReactJS on VS Code.
 
 Inspired by the heavy snow condition of Feb 2019 in Helsinki. This React app shows where the city's snowplows are currently plowing and what kind of "plowing" they're doing (e.g., plowing the streets, bike lanes, pedestrian paths, etc.).
 
-https://compendium.xyz/portfolio/lumiaura
+https://mm.compendium.xyz/portfolio/lumiaura
 
 KEYWORDS: OpenStreetMap API, Helsinki City Snowplow API (dev.hel.fi), Digitransit Geocoding API, LeafletJS, ReactJS, Javascript ES6, Frontend Dev
 
