@@ -34,7 +34,7 @@ A WordPress plugin for writing themes using [Object-oriented code](https://githu
 
 KEYWORDS: PHP, WP Plugin, Twig, WP starter theme, Frontend Dev
 
-## [AR Luonto](https://compendium.xyz/portfolio/ar-prototype/): A mobile phone educational app for children
+## [AR Luonto](https://mm.compendium.xyz/portfolio/ar-prototype/): A mobile phone educational app for children
 
 A mid-fidelity prototype project for a "[Prototyping of Digital Services](http://www.haaga-helia.fi/en/opinto-opas/opintojaksokuvaukset/DIG4TF003)" course I took in HAAGA-HELIA University of Applied Sciences. 'AR Luonto' is meant to be an iOS-based augmented reality (AR) educational app for children where they learn about the kinds of animals that live in Finland's forests or nature. [The iOS version of the prototype](https://youtu.be/QvIqrxR0PvY).
 
@@ -44,7 +44,7 @@ KEYWORDS: Balsamiq Mockups 3, Hype 3, Javascript, digital prototyping, product d
 
 A single-page React application (SPA) that uses __themoviedb.org__'s API to fetch the latest movies and their infos. This app features Local Storage for caching (in the event that the user is offline) and is hosted in an AWS S3 bucket.
 
-## [7-Minute Workout](https://compendium.xyz/portfolio/7-minute-workout/)
+## [7-Minute Workout](https://mm.compendium.xyz/portfolio/7-minute-workout/)
 
 This 7-minute workout web app does not need speakers in order to follow. One only needs to be able to read the instructions on the screen. 
 
