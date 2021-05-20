@@ -32,7 +32,7 @@ A simple app that queries the database and returns the result in prettyfied JSON
 
 (Backend dev, SQL, Javascript)
 
-## [IoT sensor network](https://github.com/islandjoe/IoT-sensor-network) proof-of-concept
+## [IoT sensor network proof-of-concept [documentation](https://github.com/islandjoe/IoT-sensor-network/blob/master/IoT%20documentation%20-%20Arthur%20Kho%20Caayon.pdf)
 
 An implementation of an array of IoT sensors that sends collected data to a private cloud storage.
 
