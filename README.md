@@ -14,17 +14,17 @@ A barebones but feature-complete web app (e.g. login authentication, admin panel
 
 (Backend dev, Python, Test suite)
 
-## [Contacts](https://github.com/islandjoe/contacts)
-
-A ReactJS contact list app that allows to enter a new contact, edit the contact details, or view the list of contacts.
-
-(Frontend dev, ReactJS)
-
 ## [Dopmn](https://github.com/islandjoe/dopmn)
 
 A quick dev environment solution for prototyping MVC web apps using Docker, PHP, MySQL, and nginx.
 
 (Backend dev, Dev tool, Docker, Microservices) 
+
+## [Contacts](https://github.com/islandjoe/contacts)
+
+A ReactJS contact list app that allows to enter a new contact, edit the contact details, or view the list of contacts.
+
+(Frontend dev, ReactJS)
 
 ## [PHP, MySQL, JSON web app](https://github.com/islandjoe/php-mysql-json-webapp)
 
