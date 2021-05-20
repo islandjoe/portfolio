@@ -59,15 +59,6 @@ A simple app that tracks players' ranking. Implemented in bare Javascript.
 
 (Frontend dev, Backend dev, Javascript ES6)
 
-## [Dashboard app](https://github.com/islandjoe/callstats-dashboard-project)
-
-A dashboard app that displays key performance indicators (KPI).
-
-(Frontend dev, UX design--not UI design)
-
-
-(https://github.com/islandjoe/subscriptions-web-app)
-
 ## [_t](https://github.com/islandjoe/_t): timberscores
 
 A WordPress plugin for writing themes using [Object-oriented code](https://github.com/timber/timber) and [Twig](https://twig.symfony.com) Template Engine. 
