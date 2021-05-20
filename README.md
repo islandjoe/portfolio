@@ -71,12 +71,6 @@ A mid-fidelity prototype project for a "[Prototyping of Digital Services](http:/
 
 (UX design--not UI Design, Digital prototyping, Balsamiq Mockups 3, Hype 3, Javascript, iOS, ARKit)
 
-## [7-Minute Workout](https://mm.compendium.xyz/portfolio/7-minute-workout/)
-
-This 7-minute workout web app does not need speakers in order to follow. One only needs to be able to read the instructions on the screen. 
-
-(High-fi prototyping, UX design--not UI design, Affinity Designer, Hype 3, Javascript)
-
 ## [Load Template](https://github.com/islandjoe/load-template): Brackets extension
 
 This is a Brackets extension that loads a text template of your choosing into a currently open file.
