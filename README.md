@@ -78,15 +78,3 @@ A WordPress plugin for writing themes using [Object-oriented code](https://githu
 A mid-fidelity prototype project for a "[Prototyping of Digital Services](http://www.haaga-helia.fi/en/opinto-opas/opintojaksokuvaukset/DIG4TF003)" course I took in HAAGA-HELIA University of Applied Sciences. 'AR Luonto' is meant to be an iOS-based augmented reality (AR) educational app for children where they learn about the kinds of animals that live in Finland's forests or nature. [The iOS version of the prototype](https://youtu.be/QvIqrxR0PvY).
 
 (UX design--not UI Design, Digital prototyping, Balsamiq Mockups 3, Hype 3, Javascript, iOS, ARKit)
-
-## [Load Template](https://github.com/islandjoe/load-template): Brackets extension
-
-This is a Brackets extension that loads a text template of your choosing into a currently open file.
-
-(Frontend Dev, Brackets Editor, Dev tool, extensions)
-
-## [touch](https://github.com/islandjoe/touch-markdown-readme): DropZone 3 plugin
-
-This Dropzone 3 action creates an empty `README.md` file inside a folder by simply dragging the folder into the action pane of DropZone. This is a drag-and-drop version of the commandline: `$ touch README.md`
-
-(Frontend Dev, Ruby, shell scripting, Dev tool)
