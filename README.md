@@ -1,6 +1,5 @@
 
 # My side projects portfolio
-A portfolio of my side projects.
 
 ## [Subscriber Account app](https://github.com/islandjoe/subscriptions-web-app)
 
