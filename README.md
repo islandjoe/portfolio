@@ -1,6 +1,10 @@
 
 # My side projects portfolio
 
+## [Enabling HTTPS on Thingsee One](https://github.com/islandjoe/thingsee-one)
+
+(IoT, Python, Raspberry Pi, forwarding server)
+
 ## [Subscriber Account app](https://github.com/islandjoe/subscriptions-web-app)
 
 A basic but fully functional phone subscriber's page in React. A subscriber logs in with their username and password, then they get access to their account page. 
