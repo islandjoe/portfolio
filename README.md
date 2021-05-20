@@ -1,9 +1,13 @@
 
 # My side projects portfolio
 
-## [Enabling HTTPS on Thingsee One](https://github.com/islandjoe/thingsee-one)
+## ["Enabling" HTTPS on Thingsee One](https://github.com/islandjoe/thingsee-one)
 
 (IoT, Python, Raspberry Pi, forwarding server)
+
+## [Motion detection tracking with OpenCV](https://github.com/islandjoe/motion-detection-tracking-python-opencv)
+
+(IoT, Python)
 
 ## [Subscriber Account app](https://github.com/islandjoe/subscriptions-web-app)
 
