@@ -18,7 +18,7 @@ https://mm.compendium.xyz/portfolio/lumiaura
 
 (ReactJS, Javascript/ES6, OpenStreetMap API, Helsinki City Snowplow API (dev.hel.fi), Digitransit Geocoding API, LeafletJS)
 
-## [Subscriber Account app](https://github.com/islandjoe/subscriptions-web-app)
+## [Phone Subscriber Account app](https://github.com/islandjoe/subscriptions-web-app)
 
 A basic but fully functional phone subscriber's page in ReactJS. A subscriber logs in with their username and password, then they get access to their account page. 
 
