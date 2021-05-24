@@ -6,9 +6,9 @@
 
 (IoT, Python, Raspberry Pi, forwarding server)
 
-## [Motion detection tracking with OpenCV](https://github.com/islandjoe/motion-detection-tracking-python-opencv)
+## [Motion detection tracking with OpenCV (Open Computer Vision)](https://github.com/islandjoe/motion-detection-tracking-python-opencv)
 
-(IoT, Python)
+(Python, OpenCV, Raspberry Pi, camera module, IoT)
 
 ## [Lumiaura](https://github.com/islandjoe/lumiaura): Where' the snowplows at?
 
