@@ -10,6 +10,14 @@
 
 (IoT, Python)
 
+## [Lumiaura](https://github.com/islandjoe/lumiaura): Where' the snowplows at?
+
+Inspired by the heavy snow condition of Feb 2019 in Helsinki. This React app shows where the city's snowplows are currently plowing and what kind of "plowing" they're doing (e.g., plowing the streets, bike lanes, pedestrian paths, etc.).
+
+https://mm.compendium.xyz/portfolio/lumiaura
+
+(ReactJS, Javascript/ES6, OpenStreetMap API, Helsinki City Snowplow API (dev.hel.fi), Digitransit Geocoding API, LeafletJS)
+
 ## [Subscriber Account app](https://github.com/islandjoe/subscriptions-web-app)
 
 A basic but fully functional phone subscriber's page in ReactJS. A subscriber logs in with their username and password, then they get access to their account page. 
@@ -52,15 +60,6 @@ An implementation of an array of IoT sensors that sends collected data to a priv
 A monospaced font with programming ligatures for ES6 and ReactJS on VS Code. 
 
 (Frontend Dev, Dev tool)
-
-## [Lumiaura](https://github.com/islandjoe/lumiaura): Where' the snowplows at?
-
-Inspired by the heavy snow condition of Feb 2019 in Helsinki. This React app shows where the city's snowplows are currently plowing and what kind of "plowing" they're doing (e.g., plowing the streets, bike lanes, pedestrian paths, etc.).
-
-https://mm.compendium.xyz/portfolio/lumiaura
-
-(Frontend Dev, ReactJS, Javascript/ES6, OpenStreetMap API, Helsinki City Snowplow API (dev.hel.fi), Digitransit Geocoding API, LeafletJS)
-
 
 ## [Scoreboard app](https://github.com/islandjoe/player-scoreboard)
 
