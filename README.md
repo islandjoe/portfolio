@@ -11,9 +11,9 @@
 
 ## [Subscriber Account app](https://github.com/islandjoe/subscriptions-web-app)
 
-A basic but fully functional phone subscriber's page in React. A subscriber logs in with their username and password, then they get access to their account page. 
+A basic but fully functional phone subscriber's page in ReactJS. A subscriber logs in with their username and password, then they get access to their account page. 
 
-(Backend dev, Frontend dev, Javascript, ReactJS, AWS, UX, wireframing, prototyping)
+(ReactJS, Backend dev, Frontend dev, Javascript, AWS, UX, wireframing, prototyping)
 
 
 ## [Django web app](https://github.com/islandjoe/django-pages-app)
