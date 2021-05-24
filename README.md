@@ -12,7 +12,7 @@
 
 ## [Lumiaura](https://github.com/islandjoe/lumiaura): Where' the snowplows at?
 
-Inspired by the heavy snow condition of Feb 2019 in Helsinki. This React app shows where the city's snowplows are currently plowing and what kind of "plowing" they're doing (e.g., plowing the streets, bike lanes, pedestrian paths, etc.).
+Inspired by the heavy snow condition of Feb 2019 in Helsinki. This ReactJS app shows where the city's snowplows are currently plowing and what kind of "plowing" they're doing (e.g., plowing the streets, bike lanes, pedestrian paths, etc.).
 
 https://mm.compendium.xyz/portfolio/lumiaura
 
