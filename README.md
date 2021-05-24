@@ -2,6 +2,7 @@
 # My side projects portfolio
 
 ## ["Enabling" HTTPS on Thingsee One](https://github.com/islandjoe/thingsee-one)
+[Thingsee One](https://haltian.com/reference/thingsee-one-iot-device/), by Finnish company Haltian, is an all-in-one IoT device for developers. It has an array of sensors as well well as a variety of communications method (e.g. wireless, cell, bluetooth). It also comes with its own eay to use cloud dashboard. However, it has no secure HTTP connections support.
 
 (IoT, Python, Raspberry Pi, forwarding server)
 
